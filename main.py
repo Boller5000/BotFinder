@@ -1,6 +1,6 @@
 import urllib.request, json,random
 region = 'euw1'
-apiKey = 'RGAPI-4f23b86e-e496-406b-a8ed-734fdd02cf32'
+apiKey = ''
 bots = []
 apiCalls = 0
 
